@@ -17,8 +17,7 @@ order: 3
 > [VOV Safesnap](#vov-safesnap)
 
 
-### **SWIF** 
-
+### **SWIF**  
 스터디매칭 어플리케이션
 
 > 개발 언어: Java
@@ -30,7 +29,6 @@ order: 3
 > [Github Link](https://github.com/oblsoun/SWIF)
 
 ### **Varda**
-
 스킨케어 화장품 구매 사이트
 
 > 개발 언어: Java
@@ -44,7 +42,6 @@ order: 3
 > [Github Link](https://github.com/oblsoun/varda)
 
 ### **Chroma Lens**
-
 색약자를 위한 이미지 색채 감지 프로젝트
 
 > 개발 언어: Python
@@ -60,7 +57,6 @@ order: 3
 > [Github Link](https://github.com/oblsoun/chromalens)
 
 ### **VOV**
-
 개인정보 비식별화 지원 서비스 개발 프로젝트
 
 > 개발 언어: Python
@@ -80,7 +76,6 @@ order: 3
 > [Github Link](https://github.com/oblsoun/VOV)
 
 ### **VOV safesnap**
-
 [VOV 프로젝트](#vov) '실시간' 기능을 활용한 사진 촬영 프로젝트(포토부스)
 
 > 개발 언어: Python
