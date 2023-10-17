@@ -19,8 +19,8 @@ order: 3
 
 ### **SWIF** 
 
-> 스터디매칭 어플리케이션
->
+스터디매칭 어플리케이션
+
 > 개발 언어: Java
 >
 > DB: Firebase
@@ -31,8 +31,8 @@ order: 3
 
 ### **Varda**
 
-> 스킨케어 화장품 구매 사이트
-> 
+스킨케어 화장품 구매 사이트
+
 > 개발 언어: Java
 > 
 > Framework: Spring boot
@@ -45,8 +45,8 @@ order: 3
 
 ### **Chroma Lens**
 
-> 색약자를 위한 이미지 색채 감지 프로젝트
-> 
+색약자를 위한 이미지 색채 감지 프로젝트
+
 > 개발 언어: Python
 > 
 > Dataset: [Roboflow](https://universe.roboflow.com/msa-ciwxj/yoon-2)
@@ -61,8 +61,8 @@ order: 3
 
 ### **VOV**
 
-> 개인정보 비식별화 지원 서비스 개발 프로젝트
-> 
+개인정보 비식별화 지원 서비스 개발 프로젝트
+
 > 개발 언어: Python
 > 
 > Dataset: [Roboflow](https://universe.roboflow.com/fingerprint-nze3i/vov-k9idv)
@@ -81,8 +81,8 @@ order: 3
 
 ### **VOV safesnap**
 
-> [VOV 프로젝트](#vov) '실시간' 기능을 활용한 사진 촬영 프로젝트(포토부스)
-> 
+[VOV 프로젝트](#vov) '실시간' 기능을 활용한 사진 촬영 프로젝트(포토부스)
+
 > 개발 언어: Python
 > 
 > Dataset: [Roboflow](https://universe.roboflow.com/fingerprint-nze3i/vov-k9idv)
