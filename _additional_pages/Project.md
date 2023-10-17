@@ -1,5 +1,5 @@
 ---
-title: Career
+title: Project
 layout: simple
 order: 3
 ---
