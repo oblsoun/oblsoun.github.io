@@ -3,7 +3,7 @@ title: Career
 layout: simple
 order: 3
 ---
-
+<!-- 
 > *Jim Hacker: I can't believe it, Humphrey. You had a conventional strict academic upbringing. Are you denying the value of it?*
 > 
 > *Humphrey Appleby: Well, what's the use of it? I can't even call upon it in conversation with the Prime Minister of Great Britain.*
@@ -31,4 +31,4 @@ order: 3
 > 
 > *汉弗莱·阿普比：我们提高毕业年龄又不是为了让他们学到更多，我们是为了把青少年拦在就业市场外，这样失业率就降低了。*
 > 
-><p align="right">--《是，首相》 第二季，第七集</p>
+><p align="right">--《是，首相》 第二季，第七集</p> -->
