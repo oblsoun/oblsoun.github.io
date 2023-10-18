@@ -1,4 +1,4 @@
-title: oblsoun Github Blog #Your awesome title
+title: oblsoun blog #Your awesome title
 email: 2005941ych@gmail.com
 description: > # this means to ignore newlines until "baseurl"
   Write an awesome description for your new site here. You can edit this
@@ -6,7 +6,7 @@ description: > # this means to ignore newlines until "baseurl"
   Google search results) and in your feed.xml site description.
 
 baseurl:  # the subpath of the site
-url: https://github.com/oblsoun/oblsoun.github.io # the base hostname & protocol for your site
+url: https://oblsoun.github.io # the base hostname & protocol for your site
 
 permalink: /:year-:month/:title
 timezone: GMT+1
@@ -19,10 +19,10 @@ cusdis:
     app_id: #your cusdis app_id
 
 user:
-  name: 윤채영
+  name: Yoon ChaeYoung
   pic: /assets/img/profile.jpg
   picAlt: "profile"
-  job: 백엔드 개발자
+  job: Backend
   # aboutme: true # comment this out if you don't need the 'about' page.
 
 exclude:
