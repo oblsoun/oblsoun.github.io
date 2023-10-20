@@ -34,7 +34,7 @@ branch 보호 설정
 
 > **1. [Settings] > [Branches] > [Add branch protection rule]**
 > 
-> ![1](https://github-production-user-asset-6210df.s3.amazonaws.com/113246634/275371413-f78ce73f-fa30-4686-9454-f10a7b892bdd.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20231020%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20231020T024018Z&X-Amz-Expires=300&X-Amz-Signature=8e0d263abd63faa549af4fb872a98d262a6910d7d9163600c4b0e6b23b72f522&X-Amz-SignedHeaders=host&actor_id=113246634&key_id=0&repo_id=673132111)
+> ![1](https://github-production-user-asset-6210df.s3.amazonaws.com/113246634/275371413-f78ce73f-fa30-4686-9454-f10a7b892bdd.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20231020%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20231020T024806Z&X-Amz-Expires=300&X-Amz-Signature=2ddcf3fdab339882ef5d903712889fc59c61e719227dc2439880b99a881764ac&X-Amz-SignedHeaders=host&actor_id=113246634&key_id=0&repo_id=673132111)
 > 
 > **2. Branch name pattern 설정, Protect matching branches 내 Require a pull request before merging 체크박스 선택**
 > 
