@@ -21,19 +21,20 @@ sitemap :
 **merge**: 기본 branch에 변경 사항을 병합
 
 ---
-:heavy_check_mark:  **1. 목적**
+
+**1. 목적**
 - Github Repository의 개인 branch에 push한 변경 사항을 다른 사람에게 알림
 - 공동 작업자와 변경 사항을 논의 및 검토
 - 변경 사항을 기본 branch에 merge
 
 
-:heavy_check_mark: **2. 설정**
+**2. 설정**
 
 branch 보호 설정
 
 > **1. [Settings] > [Branches] > [Add branch protection rule]**
 > 
-> ![1](https://github-production-user-asset-6210df.s3.amazonaws.com/113246634/275371413-f78ce73f-fa30-4686-9454-f10a7b892bdd.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20231020%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20231020T023243Z&X-Amz-Expires=300&X-Amz-Signature=f4ec15f53d4e8cb8a31b22fafb23b28b40249b3c9db55571ef5b4bfbae7da156&X-Amz-SignedHeaders=host&actor_id=113246634&key_id=0&repo_id=673132111)
+> ![1](https://github-production-user-asset-6210df.s3.amazonaws.com/113246634/275371413-f78ce73f-fa30-4686-9454-f10a7b892bdd.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20231020%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20231020T024018Z&X-Amz-Expires=300&X-Amz-Signature=8e0d263abd63faa549af4fb872a98d262a6910d7d9163600c4b0e6b23b72f522&X-Amz-SignedHeaders=host&actor_id=113246634&key_id=0&repo_id=673132111)
 > 
 > **2. Branch name pattern 설정, Protect matching branches 내 Require a pull request before merging 체크박스 선택**
 > 
@@ -48,7 +49,7 @@ branch 보호 설정
 > ![3-1](https://github-production-user-asset-6210df.s3.amazonaws.com/113246634/275377818-27804491-a099-46d3-bfac-9c3726b7591c.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20231020%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20231020T023408Z&X-Amz-Expires=300&X-Amz-Signature=e14fe0dbe5910749f53056672459e6ace90e250f2de9579383e2e460aace4212&X-Amz-SignedHeaders=host&actor_id=113246634&key_id=0&repo_id=673132111)
 
 
-:heavy_check_mark: **3. 사용 방법**
+**3. 사용 방법**
 
 > **1. Git Push**
 > 
