@@ -20,7 +20,7 @@ IDE: Android Studio
 
 - - -
 
-:heavy_check_mark: **개발 배경**
+✔️ **개발 배경**
 
 - 코로나19 확산 이후 온라인 독서실 및 스터디앱 사용량 증가
 
@@ -30,13 +30,13 @@ IDE: Android Studio
 
 - - -
 
-:heavy_check_mark: **개발 필요성**
+✔️ **개발 필요성**
 
 - 오프라인 독서실 사용 대비 비용 절감
 
 - - -
 
-:heavy_check_mark: **핵심 기능**
+✔️ **핵심 기능**
 
 - 타이머로 간단하게 총 공부 시간 기록
 
@@ -47,13 +47,13 @@ IDE: Android Studio
 
 - - -
 
-:heavy_check_mark: **사용 프로그램**
+✔️ **사용 프로그램**
 
 ![use](https://user-images.githubusercontent.com/113246634/273866575-4e3423b4-7263-4607-88a9-d6a29312baca.jpg)
 
 - - -
 
-:heavy_check_mark: **UI/UX**
+✔️ **UI/UX**
 
 [클릭 시 Figma 이동](https://www.figma.com/file/11UPpZ3Bjcf419xwidDnb3/%EC%A1%B8%EC%9E%91-%EB%B0%B1%EC%97%85?type=design&node-id=0%3A1&mode=design&t=bUwRK2DXZ5DGuHzQ-1)
 
