@@ -64,7 +64,7 @@ IDE: Google COLAB, Pycharm
 
 ✔️ **모델 구현**
 
-- 데이터셋 구축
+1. 데이터셋 구축
 
 > - [Roboflow 링크](https://universe.roboflow.com/msa-ciwxj/yoon-2)
 > 
@@ -74,7 +74,7 @@ IDE: Google COLAB, Pycharm
 > 
 > - 신뢰도, 정확도를 낮추거나 과적합을 일으키는 데이터셋 필터링
 
-- 모델 설계
+2. 모델 설계
 
 > - [Colab 링크](https://colab.research.google.com/drive/12toM9X_22CyYPObbtlJzoKYNFA7JG5yb?usp=sharing)
 >
