@@ -1,5 +1,5 @@
 ---
-title: "VOV safesnap"
+title: "안전네컷"
 date: 2023-10-17
 categories: [Project]
 comments: true
