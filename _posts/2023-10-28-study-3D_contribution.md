@@ -20,7 +20,9 @@ sitemap :
 
 #### 사용 계기
 
-Github 프로필 작성 시 3D Contribution을 추가하고 싶었다.
+Github 프로필을 작성하는 도중 여러 Github 사용자들의 README.md 파일을 구경하게 되었다. 
+
+이때 시각적으로 Contribution을 확인할 수 있는 프로필을 보고 나도 하고 싶다는 생각에 3D Contribution을 찾아보게 되었다.
 
 - - -
 
