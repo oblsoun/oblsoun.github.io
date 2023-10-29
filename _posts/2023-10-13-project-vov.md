@@ -74,25 +74,25 @@ ETC: UML, SonarQube, EC2, S3
 
 - 서비스 구성도
 
-![서비스 구성도](https://github-production-user-asset-6210df.s3.amazonaws.com/113246634/273834515-7b7d23ec-a8d5-4e17-a5bc-f3f92b2e4a4b.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20231022%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20231022T124426Z&X-Amz-Expires=300&X-Amz-Signature=1101271355e2252841d170c69481b809ac105554b37452a6ed9464d53462a7aa&X-Amz-SignedHeaders=host&actor_id=113246634&key_id=0&repo_id=673132111)
+![서비스 구성도](https://ifh.cc/g/KSLTG7.png)
 
 - 메뉴 구성도
 
-![메뉴 구성도](https://github-production-user-asset-6210df.s3.amazonaws.com/113246634/273842113-5e3f6af1-139f-4dc1-9fc1-dbf974e86096.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20231022%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20231022T124442Z&X-Amz-Expires=300&X-Amz-Signature=69ed8b8fe6cb63b232508bea2675d123a5821189d486853bcdcfb60605c67645&X-Amz-SignedHeaders=host&actor_id=113246634&key_id=0&repo_id=673132111)
+![메뉴 구성도](https://ifh.cc/g/p6jAbb.png)
 
 - Usecase
   
-![Usecase](https://github-production-user-asset-6210df.s3.amazonaws.com/113246634/273840913-677f3b93-11d4-4f00-8d6d-4c956a6b2802.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20231022%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20231022T124453Z&X-Amz-Expires=300&X-Amz-Signature=d19e9d1046fc7192eee359c3fa414257f471db50496a838800e174e36b7d288e&X-Amz-SignedHeaders=host&actor_id=113246634&key_id=0&repo_id=673132111)
+![Usecase](https://ifh.cc/g/CO21JA.png)
 
 - 알고리즘 명세서
 
-![알고리즘 명세서](https://github-production-user-asset-6210df.s3.amazonaws.com/113246634/273845168-ff895aaf-1013-4a5a-99fd-af69649b7b24.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20231022%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20231022T124520Z&X-Amz-Expires=300&X-Amz-Signature=0351d9b54c096388ecd189b9e479265d7dc5b5b48747139ebb59bf24079957c5&X-Amz-SignedHeaders=host&actor_id=113246634&key_id=0&repo_id=673132111)
+![알고리즘 명세서](https://ifh.cc/g/D0KyKQ.jpg)
 
 - - -
 
 ✔️ **테이블 설계**
 
-![ERD](https://github-production-user-asset-6210df.s3.amazonaws.com/113246634/273836532-76dbc7e8-90e0-423d-9150-eeefe63b2fde.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20231022%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20231022T124540Z&X-Amz-Expires=300&X-Amz-Signature=ac5ba479eef9617f7be8d8ba5715a83ec00a0dfb4a104e405fb565f3912e7942&X-Amz-SignedHeaders=host&actor_id=113246634&key_id=0&repo_id=673132111)
+![ERD](https://ifh.cc/g/CT7lMw.png)
 
 - - -
 
