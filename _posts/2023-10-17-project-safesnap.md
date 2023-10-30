@@ -8,7 +8,7 @@ sitemap :
   priority : 1.0
 ---
 
-[VOV 프로젝트](https://oblsoun.github.io/2023-10/vov) '실시간' 기능을 활용한 사진 촬영 프로젝트(포토부스)
+[VOV 프로젝트](https://oblsoun.github.io/2023-10/project-vov) '실시간' 기능을 활용한 사진 촬영 프로젝트(포토부스)
 
 개발 언어: Python
 
