@@ -20,6 +20,8 @@ Framework: Django
 
 IDE: Google COLAB, Pycharm
 
+[시연 영상](https://youtu.be/LGonUX21H74)
+
 [Github Link](https://github.com/oblsoun/chromalens)
 
 - - -

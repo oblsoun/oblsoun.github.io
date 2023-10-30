@@ -24,6 +24,8 @@ IDE: Visual Studio Code
 
 ETC: UML, SonarQube, EC2, S3
 
+[시연 영상](https://youtu.be/z_S71TbysyU)
+
 [Github Link](https://github.com/oblsoun/VOV)
 
 - - -

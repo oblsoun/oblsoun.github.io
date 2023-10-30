@@ -20,6 +20,8 @@ Framework: Django
 
 IDE: Visual Studio Code
 
+[시연 영상](https://youtu.be/UCxkyX-NQD4)
+
 [Github Link](https://github.com/oblsoun/VOVsnap)
 
 - - -
