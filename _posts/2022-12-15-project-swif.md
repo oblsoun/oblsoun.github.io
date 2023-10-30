@@ -16,6 +16,8 @@ DB: Firebase
 
 IDE: Android Studio
 
+[시연 영상](https://youtu.be/STS_tqPen94)
+
 [Github Link](https://github.com/oblsoun/SWIF)
 
 - - -
