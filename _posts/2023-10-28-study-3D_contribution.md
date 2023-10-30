@@ -153,3 +153,4 @@ profile-3d-contrib/profile-gitblock.svg
 
 #### 느낀점
 
+Github Action 기능을 시도해 보지 않았을 때는 어려울 거라고 생각했다. 이 기회에 처음 시도해 보는 기능이었지만 사용하면 편리한 기능임을 깨달았다. 앞으로는 Workflow를 자동화할 때 자주 사용하려 한다.
