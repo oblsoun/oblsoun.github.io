@@ -58,7 +58,9 @@ sitemap :
 > git: git 원격 저장소에서 프로젝트 clone
 > sh: unix 환경에서 실행할 명령어 실행(윈도우: bat)
 > def: groovy 변수, 함수 선언(javascript에서 var)
+
 - **작성 방법**
+> 
 ```
 node('worker'){
   stage('source'){
@@ -110,6 +112,7 @@ node {
 ```
 
 - **Flow Control**
+>
 ```
 // if문 사용 가능
 
