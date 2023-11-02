@@ -42,25 +42,31 @@ sitemap :
 - Groovy Script로 작성
 - Declarative Pipeline
 > Scripted Pipeline보다 쉽게 작성 가능
+>
 > Groovy 문법 기반
+> 
 > 최상단에 pipeline이라고 되어 있으면 declarative 문법으로 작성된 것
+
 - Scripted Pipeline
 > Declarative보다 효과적이고 많은 기능 포함 작성 가능
+> 
 > Groovy 문법 기반
+> 
 > 최상단에 node 지시어가 있으면 scripted 문법으로 작성된 것
+
 - Declarative Pipeline와 Scripted Pipeline 동시 작성 불가
 
 #### Scripted Pipeline
 - **Directive(지시어)**
-> node: Scripted Pipeline을 실행하는 Jenkins 에이전트 / 최상단에 선언
-> dir: 명령어를 수행할 directory(폴더) 정의
-> stage: 파이프라인 각 단계, 어떤 작업을 할지 선언(작업 내용 작성)
-> git: git 원격 저장소에서 프로젝트 clone
-> sh: unix 환경에서 실행할 명령어 실행(윈도우: bat)
-> def: groovy 변수, 함수 선언(javascript에서 var)
+> - node: Scripted Pipeline을 실행하는 Jenkins 에이전트 / 최상단에 선언
+> - dir: 명령어를 수행할 directory(폴더) 정의
+> - stage: 파이프라인 각 단계, 어떤 작업을 할지 선언(작업 내용 작성)
+> - git: git 원격 저장소에서 프로젝트 clone
+> - sh: unix 환경에서 실행할 명령어 실행(윈도우: bat)
+> - def: groovy 변수, 함수 선언(javascript에서 var)
 
 - **작성 방법**
-> 
+
 ```
 node('worker'){
   stage('source'){
@@ -68,6 +74,7 @@ node('worker'){
   }
 }
 ```
+
 ```
 // 예시 1
 pipeline {
