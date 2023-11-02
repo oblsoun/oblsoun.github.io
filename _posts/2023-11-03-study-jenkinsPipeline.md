@@ -41,18 +41,14 @@ sitemap :
 #### Jenkins File 작성 방법
 - Groovy Script로 작성
 - Declarative Pipeline
-> Scripted Pipeline보다 쉽게 작성 가능
->
-> Groovy 문법 기반
-> 
-> 최상단에 pipeline이라고 되어 있으면 declarative 문법으로 작성된 것
+> - Scripted Pipeline보다 쉽게 작성 가능
+> - Groovy 문법 기반
+> - 최상단에 pipeline이라고 되어 있으면 declarative 문법으로 작성된 것
 
 - Scripted Pipeline
-> Declarative보다 효과적이고 많은 기능 포함 작성 가능
-> 
-> Groovy 문법 기반
-> 
-> 최상단에 node 지시어가 있으면 scripted 문법으로 작성된 것
+> - Declarative보다 효과적이고 많은 기능 포함 작성 가능
+> - Groovy 문법 기반
+> - 최상단에 node 지시어가 있으면 scripted 문법으로 작성된 것
 
 - Declarative Pipeline와 Scripted Pipeline 동시 작성 불가
 
